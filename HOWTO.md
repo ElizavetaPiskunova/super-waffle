@@ -1,0 +1,5 @@
+- скачать и установить обсидиан https://obsidian.md/download
+- скачать и установить siblime merge https://www.sublimemerge.com/
+- склонировать репозиторий 
+- открыть репозиторий в gethub и скопировать ссылку
+- ![](img/Pasted%20image%2020240328121958.png)
